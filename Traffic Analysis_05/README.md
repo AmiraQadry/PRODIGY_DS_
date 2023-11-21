@@ -5,7 +5,8 @@ The analysis is performed using Python programming language and various librarie
 
 ## Dataset
 
-The traffic accident data used for analysis should be provided in a CSV format. The dataset should contain relevant information such as:
+The [traffic accident data](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) used for analysis should be provided in a CSV format. 
+The dataset should contain relevant information such as:
 
 - `TimeZone`: Timezone of the accident
 - `Weather_Condition`: Weather conditions during the accident (e.g., clear, rainy, foggy)
